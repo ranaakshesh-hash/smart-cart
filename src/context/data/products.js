@@ -1,0 +1,68 @@
+const products = [
+    {
+      id: 1,
+      name: "Wireless Bluetooth Headphones",
+      price: 1299,
+      stock: 15,
+      category: "Electronics",
+      image: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=300&fit=crop",
+    },
+    {
+      id: 2,
+      name: "Mechanical Keyboard",
+      price: 2499,
+      stock: 8,
+      category: "Electronics",
+      image: "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=400&h=300&fit=crop",
+    },
+    {
+      id: 3,
+      name: "Running Shoes",
+      price: 1899,
+      stock: 0,
+      category: "Footwear",
+      image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&h=300&fit=crop",
+    },
+    {
+      id: 4,
+      name: "Stainless Steel Water Bottle",
+      price: 499,
+      stock: 25,
+      category: "Lifestyle",
+      image: "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=400&h=300&fit=crop",
+    },
+    {
+      id: 5,
+      name: "Laptop Stand",
+      price: 899,
+      stock: 12,
+      category: "Electronics",
+      image: "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=400&h=300&fit=crop",
+    },
+    {
+      id: 6,
+      name: "Yoga Mat",
+      price: 649,
+      stock: 20,
+      category: "Fitness",
+      image: "https://images.unsplash.com/photo-1601925228074-8a5fd73e85c9?w=400&h=300&fit=crop",
+    },
+    {
+      id: 7,
+      name: "Smartwatch",
+      price: 3999,
+      stock: 5,
+      category: "Electronics",
+      image: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400&h=300&fit=crop",
+    },
+    {
+      id: 8,
+      name: "Backpack",
+      price: 1199,
+      stock: 0,
+      category: "Lifestyle",
+      image: "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=300&fit=crop",
+    },
+  ];
+  
+  export default products;
